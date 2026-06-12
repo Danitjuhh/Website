@@ -1,2 +1,2 @@
-# Legal
-Terms of Service and Privacy Policy for Discord
+# Website
+Homepage, Terms of Service and Privacy Policy
